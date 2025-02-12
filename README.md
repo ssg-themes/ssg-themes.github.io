@@ -1,21 +1,21 @@
 - hydra-jekyll
 	- [https://ssg-themes.github.io/hydra-jekyll](https://ssg-themes.github.io/hydra-jekyll)
-	- [https://github.com/ssg-themes/hydra-jekyll](https://github.com/ssg-themes/hydra-jekyll)
+	- [https://github.com/ssg-themes/hydra-jekyll](https://github.com/ssg-themes/hydra-jekyll/settings/pages)
 - just-the-docs
 	- [https://ssg-themes.github.io/just-the-docs](https://ssg-themes.github.io/just-the-docs)
-	- [https://github.com/ssg-themes/just-the-docs](https://github.com/ssg-themes/just-the-docs)
+	- [https://github.com/ssg-themes/just-the-docs](https://github.com/ssg-themes/just-the-docs/settings/pages)
 - bulma-clean-theme
 	- [https://ssg-themes.github.io/bulma-clean-theme](https://ssg-themes.github.io/bulma-clean-theme)
-	- [https://github.com/ssg-themes/bulma-clean-theme](https://github.com/ssg-themes/bulma-clean-theme)
+	- [https://github.com/ssg-themes/bulma-clean-theme](https://github.com/ssg-themes/bulma-clean-theme/settings/pages)
 - creative-theme-jekyll
 	- [https://ssg-themes.github.io/creative-theme-jekyll](https://ssg-themes.github.io/creative-theme-jekyll)
-	- [https://github.com/ssg-themes/creative-theme-jekyll](https://github.com/ssg-themes/creative-theme-jekyll)
+	- [https://github.com/ssg-themes/creative-theme-jekyll](https://github.com/ssg-themes/creative-theme-jekyll/settings/pages)
 - freelancer-theme
 	- [https://ssg-themes.github.io/freelancer-theme](https://ssg-themes.github.io/freelancer-theme)
-	- [https://github.com/ssg-themes/freelancer-theme](https://github.com/ssg-themes/freelancer-theme)
+	- [https://github.com/ssg-themes/freelancer-theme](https://github.com/ssg-themes/freelancer-theme/settings/pages)
 - mediumish-theme-jekyll
 	- [https://ssg-themes.github.io/mediumish-theme-jekyll](https://ssg-themes.github.io/mediumish-theme-jekyll)
-	- [https://github.com/ssg-themes/mediumish-theme-jekyll](https://github.com/ssg-themes/mediumish-theme-jekyll)
+	- [https://github.com/ssg-themes/mediumish-theme-jekyll](https://github.com/ssg-themes/mediumish-theme-jekyll/settings/pages)
 - agency-jekyll-themPublic
 	- [https://ssg-themes.github.io/agency-jekyll-themPublic](https://ssg-themes.github.io/agency-jekyll-themPublic)
-	- [https://github.com/ssg-themes/agency-jekyll-themPublic](https://github.com/ssg-themes/agency-jekyll-themPublic)
+	- [https://github.com/ssg-themes/agency-jekyll-themPublic](https://github.com/ssg-themes/agency-jekyll-themPublic/settings/pages)
