@@ -1,3 +1,4 @@
+### https://github.com/ssg-themes/ssg-themes.github.io
 - hydra-jekyll
 	- [https://ssg-themes.github.io/hydra-jekyll](https://ssg-themes.github.io/hydra-jekyll)
 	- [https://github.com/ssg-themes/hydra-jekyll](https://github.com/ssg-themes/hydra-jekyll/settings/pages)
@@ -16,6 +17,6 @@
 - mediumish-theme-jekyll
 	- [https://ssg-themes.github.io/mediumish-theme-jekyll](https://ssg-themes.github.io/mediumish-theme-jekyll)
 	- [https://github.com/ssg-themes/mediumish-theme-jekyll](https://github.com/ssg-themes/mediumish-theme-jekyll/settings/pages)
-- agency-jekyll-themPublic
-	- [https://ssg-themes.github.io/agency-jekyll-themPublic](https://ssg-themes.github.io/agency-jekyll-themPublic)
-	- [https://github.com/ssg-themes/agency-jekyll-themPublic](https://github.com/ssg-themes/agency-jekyll-themPublic/settings/pages)
+- agency-jekyll-theme
+	- [https://ssg-themes.github.io/agency-jekyll-theme](https://ssg-themes.github.io/agency-jekyll-theme)
+	- [https://github.com/ssg-themes/agency-jekyll-theme](https://github.com/ssg-themes/agency-jekyll-theme/settings/pages)
