@@ -1,7 +1,7 @@
-https://ssg-themes.github.io/hydra-jekyll
-https://ssg-themes.github.io/just-the-docs
-https://ssg-themes.github.io/bulma-clean-theme
-https://ssg-themes.github.io/creative-theme-jekyll
-https://ssg-themes.github.io/freelancer-theme
-https://ssg-themes.github.io/mediumish-theme-jekyll
-https://ssg-themes.github.io/agency-jekyll-themPublic
+- https://ssg-themes.github.io/hydra-jekyll
+- https://ssg-themes.github.io/just-the-docs
+- https://ssg-themes.github.io/bulma-clean-theme
+- https://ssg-themes.github.io/creative-theme-jekyll
+- https://ssg-themes.github.io/freelancer-theme
+- https://ssg-themes.github.io/mediumish-theme-jekyll
+- https://ssg-themes.github.io/agency-jekyll-themPublic
